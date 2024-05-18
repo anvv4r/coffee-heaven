@@ -10,7 +10,7 @@ body {
     display: flex;
     flex-direction: row;
     justify-content: flex-end;
-    font-family: 'Lato', Courier, monospace;
+    font-family: 'Lato', monospace, serif;
 }
 
 section {
